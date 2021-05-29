@@ -1,2 +1,2 @@
 # CSE-101
-CSE-101 assignments and CSE-107 lab assignments
+CSE101 (Introduction to C programming and arduino assignments) and CSE107 (Assembly and C programming Laboratory tasks) 
