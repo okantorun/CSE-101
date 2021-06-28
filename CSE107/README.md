@@ -2,15 +2,15 @@
 
 Laboratory  | Language | Description
 ------------- | ------------- | -------------
-[LAB3](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw1)  | Assembly | Assembly Problems
-[LAB4](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw2)  | Assembly | Assembly problems 
-[LAB5](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw3)  | C | If-else
-[LAB6](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw4)  | C | For loop
-[LAB7](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw1)  | C |
-[LAB8](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw2)  | C | Assembly problems consisting of 3 questions
-[LAB9](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw3)  | C | Calculator
-[LAB10](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw4) | C |  Aurduino communication with C language
-[LAB11](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw4) | C | 
+[LAB3](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw1)  | Assembly | Basic Assembly Operations
+[LAB4](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw2)  | Assembly | Capital letters convert to small letters with name 
+[LAB5](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw3)  | C | Basic If-Else problem
+[LAB6](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw4)  | C | Fibonacci,finding prime number and perfect number
+[LAB7](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw1)  | C | Drawing perpendicular triangle and pyramid,Determining composite number
+[LAB8](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw2)  | C | Basic 2D Array problems
+[LAB9](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw3)  | C | Functions and Array problems
+[LAB10](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw4) | C | Reverse string and printing histogram
+[LAB11](https://github.com/okantorun/CSE-101/tree/main/CSE101/hw4) | C | File I/O and structures
 
 
 ## Purpose of the course
